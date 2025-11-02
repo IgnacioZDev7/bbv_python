@@ -1,0 +1,4 @@
+Para este proyecto se creo un entorno virtual llamado "bbvenv"
+Para activar el entorno ejecutar el comando "bbvenv/Scripts/activate"
+
+Para instalar en el futuro o en otros equipos ejecutar el comando "pip install -r requirements.txt"
